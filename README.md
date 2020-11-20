@@ -7,7 +7,7 @@
 I'm  a Physicist with special interests in computational analysis, Statistical Physics, working on Brain dynamic application and Complex Systems at CEMSC3-UNSAM.
 
 
-I love learning new technologies and contributing to open sourse communities, and I'm open to any speaking opportunity, mentoring, or any other help which you might need.
+I love learning new technologies and contributing to open source communities, and I'm open to any speaking opportunity, mentoring, or any other help which you might need.
 
 
 #### :rocket: Connect with me:
