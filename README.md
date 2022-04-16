@@ -4,7 +4,7 @@
 
 #### :books: About me: 
 
-I'm  a Physicist with special interests in computational analysis, Statistical Physics, working on Brain dynamic application and Complex Systems at CEMSC3-UNSAM.
+I'm  a Physicist with special interests in computational analysis, Statistical Physics, working on Brain dynamic application and Complex Systems.
 
 
 I love learning new technologies and contributing to open source communities, and I'm open to any speaking opportunity, mentoring, or any other help which you might need.
