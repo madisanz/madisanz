@@ -4,7 +4,7 @@
 
 #### :books: About me: 
 
-I'm  a Physicist with special interests in computational analysis, Statistical Physics, working on Brain dynamic application and Complex Systems.
+I'm  a Physicist with special interests in computational analysis, Statistical Physics.
 
 
 I love learning new technologies and contributing to open source communities, and I'm open to any speaking opportunity, mentoring, or any other help which you might need.
